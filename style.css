@@ -1,0 +1,31 @@
+body {
+    background-color:black;
+    font-family:arial;
+    color:white
+}
+h1{
+    color:grey;
+    font-family:Verdana;
+}
+div{
+    background-color: white;
+    border-radius: 25px;
+    width: 600px;
+    margin: auto;
+    padding: 1.5%;
+    padding-left: 80px;
+    text-align: justify;
+    
+}
+form{
+    color: black;
+    margin: auto;
+    width: 400px;
+    text-align:justify
+}
+label{
+    width: 120px;
+    display: inline-block;
+}
+
+
